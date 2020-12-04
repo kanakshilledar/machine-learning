@@ -7,7 +7,7 @@ After training we will provide a live feed from the webcam as an image for detec
 ##### Dependencies
 `pip install -r requirements.txt`
 ##### Usage
-`python3 train.py`
+`python3 train.py`<br>
 `python3 interface.py`
 
 The project is split into two file one is
