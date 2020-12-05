@@ -5,6 +5,7 @@ In this python project we are going to use the MNIST dataset for training Convol
 After training we will provide a live feed from the webcam as an image for detection.
 
 ##### Dependencies
+`Python 3.x installed latest version is preffered`
 `pip install -r requirements.txt`
 ##### Usage
 `python3 train.py`<br>
