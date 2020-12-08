@@ -17,5 +17,5 @@ The project is split into two file one is
 
 For dependencies please see requirements.txt
 
-This project needs some more refining. I have trained upto 50 epochs and its giving an accuracy of `0.91720002`.
+This project needs some more refining. I have trained upto 80 epochs and its giving an accuracy of `0.9250002`.
 This was my first try in doing any project using deep learning!
